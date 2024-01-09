@@ -12,6 +12,7 @@
   "author": {
     "name": "Ashley Wilkey"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/AshleyWilkey/boilerplate-npm.git"
